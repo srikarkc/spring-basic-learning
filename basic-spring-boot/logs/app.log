@@ -1,0 +1,250 @@
+2024-12-04T00:09:23.149-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:09:23.152-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:09:23.153-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:09:23.248-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-04T00:09:23.251-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-04T00:09:24.431-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:09:24.446-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:09:24.446-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:09:24.500-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:09:24.501-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1249 ms
+2024-12-04T00:09:24.917-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:09:24.960-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:09:24.967-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 2.415 seconds (process running for 3.522)
+2024-12-04T00:09:30.408-08:00  INFO 3556 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 2 deletions, 1 modification)
+2024-12-04T00:09:30.412-08:00  INFO 3556 --- [basic-spring-boot] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:09:30.421-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:09:30.559-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:09:30.559-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:09:30.560-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:09:30.872-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:09:30.874-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:09:30.875-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:09:30.894-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:09:30.895-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 332 ms
+2024-12-04T00:09:30.999-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:09:31.013-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:09:31.019-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.512 seconds (process running for 9.574)
+2024-12-04T00:09:31.022-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:09:32.410-08:00  INFO 3556 --- [basic-spring-boot] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-04T00:09:32.410-08:00  INFO 3556 --- [basic-spring-boot] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-04T00:09:32.412-08:00  INFO 3556 --- [basic-spring-boot] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-12-04T00:09:32.429-08:00  INFO 3556 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2024-12-04T00:09:32.431-08:00  INFO 3556 --- [basic-spring-boot] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:09:32.459-08:00 DEBUG 3556 --- [basic-spring-boot] [http-nio-8080-exec-1] c.e.b.controller.HelloWorldController    : Received request for /hello endpoint
+2024-12-04T00:09:32.490-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:09:32.627-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:09:32.627-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:09:32.628-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:09:32.878-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:09:32.879-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:09:32.880-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:09:32.899-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:09:32.900-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 269 ms
+2024-12-04T00:09:32.997-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:09:33.009-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:09:33.014-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.427 seconds (process running for 11.57)
+2024-12-04T00:09:33.016-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:10:54.779-08:00  INFO 3556 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-12-04T00:10:54.781-08:00  INFO 3556 --- [basic-spring-boot] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:10:54.788-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:10:54.867-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:10:54.867-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:10:54.868-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:10:55.099-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:10:55.100-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:10:55.100-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:10:55.115-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:10:55.116-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 246 ms
+2024-12-04T00:10:55.175-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:10:55.197-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:10:55.202-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.371 seconds (process running for 93.757)
+2024-12-04T00:10:55.203-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:11:49.498-08:00  INFO 3556 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-12-04T00:11:49.500-08:00  INFO 3556 --- [basic-spring-boot] [Thread-15] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:11:49.508-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:11:49.618-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:11:49.619-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:11:49.619-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:11:49.839-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:11:49.840-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:11:49.841-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:11:49.858-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:11:49.858-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 237 ms
+2024-12-04T00:11:49.929-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:11:49.940-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:11:49.944-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.366 seconds (process running for 148.499)
+2024-12-04T00:11:49.945-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:12:20.887-08:00  INFO 3556 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-12-04T00:12:20.888-08:00  INFO 3556 --- [basic-spring-boot] [Thread-19] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:12:20.900-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:12:21.050-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:12:21.051-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:12:21.051-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:12:21.279-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:12:21.280-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:12:21.280-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:12:21.297-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:12:21.297-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 243 ms
+2024-12-04T00:12:21.354-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:12:21.363-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:12:21.366-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.356 seconds (process running for 179.922)
+2024-12-04T00:12:21.367-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:12:22.783-08:00  INFO 3556 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-12-04T00:12:22.784-08:00  INFO 3556 --- [basic-spring-boot] [Thread-23] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:12:22.791-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:12:22.887-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 3556 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:12:22.887-08:00 DEBUG 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:12:22.887-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:12:23.170-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:12:23.171-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:12:23.171-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:12:23.186-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:12:23.186-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 297 ms
+2024-12-04T00:12:23.272-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:12:23.280-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:12:23.283-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.423 seconds (process running for 181.838)
+2024-12-04T00:12:23.284-08:00  INFO 3556 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:12:25.903-08:00  INFO 3556 --- [basic-spring-boot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:12:25.912-08:00  INFO 3556 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:12:28.687-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 5980 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:12:28.689-08:00 DEBUG 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:12:28.690-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:12:28.749-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-04T00:12:28.750-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-04T00:12:29.851-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:12:29.866-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:12:29.867-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:12:29.914-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:12:29.914-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1164 ms
+2024-12-04T00:12:30.382-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:12:30.436-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:12:30.446-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 2.33 seconds (process running for 3.263)
+2024-12-04T00:13:15.047-08:00  INFO 5980 --- [basic-spring-boot] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-04T00:13:15.047-08:00  INFO 5980 --- [basic-spring-boot] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-04T00:13:15.048-08:00  INFO 5980 --- [basic-spring-boot] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-12-04T00:13:54.089-08:00  INFO 5980 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-12-04T00:13:54.092-08:00  INFO 5980 --- [basic-spring-boot] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:13:54.101-08:00  INFO 5980 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:13:54.201-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 5980 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:13:54.201-08:00 DEBUG 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:13:54.202-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:13:54.488-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:13:54.489-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:13:54.489-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:13:54.509-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:13:54.509-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 304 ms
+2024-12-04T00:13:54.598-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:13:54.611-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:13:54.615-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.466 seconds (process running for 87.432)
+2024-12-04T00:13:54.617-08:00  INFO 5980 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:14:02.574-08:00  INFO 5980 --- [basic-spring-boot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:14:02.584-08:00  INFO 5980 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:14:05.476-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 8832 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:14:05.478-08:00 DEBUG 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:14:05.480-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:14:05.575-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-04T00:14:05.575-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-04T00:14:06.724-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:14:06.739-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:14:06.740-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:14:06.791-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:14:06.792-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1215 ms
+2024-12-04T00:14:07.193-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:14:07.235-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:14:07.243-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 2.423 seconds (process running for 3.385)
+2024-12-04T00:14:55.790-08:00  INFO 8832 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-12-04T00:14:55.795-08:00  INFO 8832 --- [basic-spring-boot] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:14:55.803-08:00  INFO 8832 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:14:55.922-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 8832 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:14:55.922-08:00 DEBUG 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:14:55.923-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:14:56.170-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:14:56.171-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:14:56.171-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:14:56.188-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:14:56.188-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 262 ms
+2024-12-04T00:14:56.282-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:14:56.300-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:14:56.305-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.42 seconds (process running for 52.446)
+2024-12-04T00:14:56.307-08:00  INFO 8832 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:15:11.841-08:00  INFO 8832 --- [basic-spring-boot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:15:11.849-08:00  INFO 8832 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:15:15.661-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 13452 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:15:15.663-08:00 DEBUG 13452 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:15:15.665-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:15:15.730-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-04T00:15:15.730-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-04T00:15:16.816-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:15:16.830-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:15:16.830-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:15:16.879-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:15:16.879-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1148 ms
+2024-12-04T00:15:17.433-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:15:17.479-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:15:17.488-08:00  INFO 13452 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 2.385 seconds (process running for 3.28)
+2024-12-04T00:15:21.887-08:00  INFO 13452 --- [basic-spring-boot] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-04T00:15:21.887-08:00  INFO 13452 --- [basic-spring-boot] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-04T00:15:21.888-08:00  INFO 13452 --- [basic-spring-boot] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-12-04T00:15:47.530-08:00  INFO 13452 --- [basic-spring-boot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:15:47.541-08:00  INFO 13452 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:15:51.545-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 9924 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:15:51.548-08:00 DEBUG 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:15:51.550-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:15:51.613-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-04T00:15:51.614-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-04T00:15:52.741-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:15:52.757-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:15:52.758-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:15:52.807-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:15:52.808-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1193 ms
+2024-12-04T00:15:53.266-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:15:53.317-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:15:53.328-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 2.378 seconds (process running for 3.259)
+2024-12-04T00:17:21.152-08:00  INFO 9924 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-12-04T00:17:21.156-08:00  INFO 9924 --- [basic-spring-boot] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:17:21.173-08:00  INFO 9924 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:17:21.304-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 9924 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:17:21.304-08:00 DEBUG 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:17:21.304-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:17:21.607-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:17:21.608-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:17:21.608-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:17:21.630-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:17:21.630-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 323 ms
+2024-12-04T00:17:21.756-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:17:21.771-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:17:21.776-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.508 seconds (process running for 91.707)
+2024-12-04T00:17:21.779-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:17:39.471-08:00  INFO 9924 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-12-04T00:17:39.472-08:00  INFO 9924 --- [basic-spring-boot] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:17:39.480-08:00  INFO 9924 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:17:39.629-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 9924 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:17:39.630-08:00 DEBUG 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:17:39.630-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:17:39.882-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:17:39.882-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:17:39.882-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:17:39.900-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:17:39.900-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 268 ms
+2024-12-04T00:17:39.987-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:17:39.999-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:17:40.002-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.421 seconds (process running for 109.933)
+2024-12-04T00:17:40.004-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:17:50.586-08:00  INFO 9924 --- [basic-spring-boot] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-12-04T00:17:50.588-08:00  INFO 9924 --- [basic-spring-boot] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:17:50.594-08:00  INFO 9924 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2024-12-04T00:17:50.711-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Starting BasicSpringBootApplication using Java 21.0.5 with PID 9924 (C:\Users\KC\IdeaProjects\basic-spring-boot\target\classes started by KC in C:\Users\KC\IdeaProjects\basic-spring-boot)
+2024-12-04T00:17:50.711-08:00 DEBUG 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Running with Spring Boot v3.4.0, Spring v6.2.0
+2024-12-04T00:17:50.712-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-12-04T00:17:51.030-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-12-04T00:17:51.032-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-04T00:17:51.032-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-04T00:17:51.053-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-04T00:17:51.054-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 339 ms
+2024-12-04T00:17:51.123-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-04T00:17:51.134-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-12-04T00:17:51.137-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] c.e.b.BasicSpringBootApplication         : Started BasicSpringBootApplication in 0.472 seconds (process running for 121.069)
+2024-12-04T00:17:51.138-08:00  INFO 9924 --- [basic-spring-boot] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-12-04T00:18:10.617-08:00  INFO 9924 --- [basic-spring-boot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-04T00:18:10.625-08:00  INFO 9924 --- [basic-spring-boot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
